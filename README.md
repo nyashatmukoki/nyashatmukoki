@@ -1,14 +1,25 @@
 ### Hi there 👋
 
-**nyashatmukoki/nyashatmukoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 👋  Hi, I'm Nyasha T. Mukoki 
+<!--
+###  [Your Tagline/Specialization]  
 
-- 🔭 I’m currently working on customizing my GitHub Profile...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[Short bio highlighting your strongest tech skills and experience]
+
+## 🛠 Projects 
+
+* **[Project 1 Name](link to repo)** - Brief description, tech used 
+* **[Project 2 Name](link to repo)** - ... 
+* **[Project 3 Name](link to repo)** - ... (add more if needed)
+
+## 💻 Skills
+
+* **Languages:** [List your primary languages]
+* **Frameworks/Tools:** [Example: React, Flask, AWS, Git]
+* **Other:** [Anything else worth highlighting]
+
+## 📫 How to Reach Me 
+
+[LinkedIn Icon](link)  [Twitter Icon (if you have one)](link)  [Email] 
+-->
