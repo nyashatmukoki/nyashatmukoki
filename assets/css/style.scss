@@ -1,0 +1,24 @@
+    ```scss
+    ---
+    ---
+
+    @import "{{ site.theme }}";
+    ```
+
+
+.profile-header {
+    text-align: center; /* Centers the images */
+    margin-bottom: 20px; /* Adds space below the header */
+}
+
+.profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%; /* Creates circular profile picture */
+    margin-bottom: 10px; 
+}
+
+.cover-image {
+    width: 80%; 
+    max-width: 800px; /* Sets a maximum width so it doesn't get too large */
+}
