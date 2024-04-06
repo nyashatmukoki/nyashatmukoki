@@ -3,8 +3,8 @@
 <img src="https://imgur.com/a/VXyJmNy" width="80%"> 
 ```
 
-![Profile Picture](https://imgur.com/a/w3s6QiE)
-![Cover Image](https://imgur.com/a/VXyJmNy)
+![Profile Picture](https://i.imgur.com/iTiL0jY.jpg)
+![Cover Image](https://i.imgur.com/pDtiybQ.png)
 
 # Nyasha T. Mukoki
 
