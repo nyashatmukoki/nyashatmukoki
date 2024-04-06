@@ -1,7 +1,8 @@
 <img src="https://imgur.com/a/w3s6QiE" width="150" style="border-radius: 50%"> 
 <img src="https://imgur.com/a/VXyJmNy" width="80%"> 
 
-
+![Profile Picture](https://imgur.com/a/w3s6QiE)
+![Cover Image](https://imgur.com/a/VXyJmNy)
 
 # Nyasha T. Mukoki
 
