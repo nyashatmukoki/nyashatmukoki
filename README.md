@@ -1,6 +1,6 @@
 
 
-# Tinashe Munyoro
+# Nyasha T. Mukoki
 
 **Information Systems & Technology Professional**
 
