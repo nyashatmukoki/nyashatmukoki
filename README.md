@@ -1,11 +1,3 @@
-```
-<img src="https://imgur.com/a/w3s6QiE" width="150" style="border-radius: 50%"> 
-<img src="https://imgur.com/a/VXyJmNy" width="80%"> 
-```
-
-![Profile Picture](https://i.imgur.com/iTiL0jY.jpg)
-![Cover Image](https://i.imgur.com/pDtiybQ.png)
-
 # Nyasha T. Mukoki
 
 **Information Systems & Technology Professional**
